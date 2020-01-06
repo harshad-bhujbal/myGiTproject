@@ -3,8 +3,14 @@ change1
 change 2
 
 
-change3
+
 
 change4 with bug fixing
 
 commit on master to create conflict
+
+change4 with bug fixing  big 2
+
+
+chane 5 with bug 2
+
