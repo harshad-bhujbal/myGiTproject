@@ -6,3 +6,5 @@ change 2
 change3
 
 change4 with bug fixing
+
+commit on master to create conflict
