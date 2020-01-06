@@ -1,7 +1,11 @@
 rebase file for new CR1 branch
 
 
-change8-to check push
+
 change2 file this is pushed by other member so we write here for now pull
 
 change using rebase using remote 
+
+change2 -->file this is pushed by other member so we write here for now pull
+change by rebase using remote
+file2 is modified for change using rebase remote
